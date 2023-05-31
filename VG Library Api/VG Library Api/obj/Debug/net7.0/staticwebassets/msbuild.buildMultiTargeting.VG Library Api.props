@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\VG Library Api.props" />
+</Project>
