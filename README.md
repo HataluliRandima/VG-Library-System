@@ -1,3 +1,6 @@
 # VG-Library-System
 
-## Coming soon
+## In progress
+
+##Technology used
+1. Angular , Css , Javascript, Typescript,Html, ,net core Api , Ms sql
